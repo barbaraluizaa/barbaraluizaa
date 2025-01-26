@@ -1,4 +1,4 @@
-#  👩🏾‍💻 Bárbara Luiza
+# 👩🏽‍💻 Bárbara Luiza
 
 Olá! Sou formada em **Gestão de Processos Gerenciais** e atualmente atuo como **Analista de Contas a Pagar**. Estou em transição de carreira para a área de **Tecnologia**, explorando e aprendendo mais sobre esse universo fascinante.
 
