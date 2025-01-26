@@ -1,16 +1,17 @@
-## Hi there 👋
+#  👩🏾‍💻 Bárbara Luiza
 
-<!--
-**barbaraluizaa/barbaraluizaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou formada em **Gestão de Processos Gerenciais** e atualmente atuo como **Analista de Contas a Pagar**. Estou em transição de carreira para a área de **Tecnologia**, explorando e aprendendo mais sobre esse universo fascinante.
 
-Here are some ideas to get you started:
+💡 Atualmente, estou focada em:  
+- Aprender programação do zero;  
+- Desenvolver habilidades em tecnologia para resolver problemas do mundo real;  
+- Compartilhar minha jornada de aprendizado aqui no GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Sou apaixonada por aprendizado contínuo e acredito que a tecnologia pode transformar não só a forma como trabalhamos, mas também como nos conectamos com o mundo.  
+
+### 🌐 Entre em Contato
+<div>
+  <a href="https://www.linkedin.com/in/barbaraluizaoliveira/">
+    <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
+</div>
